@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+seaborn
+matplotlib
+scikit-learn
+fpdf
+groq
